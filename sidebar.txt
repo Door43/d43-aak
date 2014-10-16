@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aak:home|Door43 (aak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aak|d43-aak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aak/archive/master.zip|d43-aak.zip]]
+
+**Recent Changes**
+{{changes>ns = aak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aak|Ethnologue data]]
+
